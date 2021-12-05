@@ -1,0 +1,19 @@
+{
+    "code":0,
+    "msg":"ok",
+    "ticket":"2021-12-04 17:23:48",
+    "server_list":[
+       {
+          "server_name":"[OCE/AUS/NZ] Burning Lands",
+          "district_id":10,
+          "server_id":3590,
+          "type":2,
+          "addr":"128.0.114.58",
+          "port":12000,         
+          "info": "{\"has_pwd\":0,\"map_name\":\"LargeTerrain_Central_Main\",\"steamaddr\":\"\",\"host_data\":\"\",\"desc\":\"Vanilla settings - https://discord.gg/hQwptD2WMR\",\"ds_type\":2,\"pvp_type\":0,\"maxplayer\":100,\"online\":1,\"c_p_n\":1,\"trueplayers\":1,\"maxhukou\":0,\"major_ver\":0,\"minor_ver\":17}",
+          "online":0,
+          "status":5,
+          "owner_type":2
+       }
+     ]
+ }
